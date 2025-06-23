@@ -1,15 +1,15 @@
 # 🖩 C# Görsel Hesap Makinesi Uygulaması
 
-## 📌 Proje Özeti
+## Proje Özeti
 
 Bu proje, **C# Windows Forms** kullanılarak geliştirilmiş basit ve kullanıcı dostu bir **hesap makinesi uygulamasıdır**.  
 Kullanıcılar, görsel butonlar aracılığıyla toplama, çıkarma, çarpma ve bölme işlemlerini kolayca gerçekleştirebilir.
 
-## 🎯 Proje Amacı
+## Proje Amacı
 
 Amaç, **Windows Forms ortamında kullanıcı arayüzü geliştirme**, **buton event'leri kullanma** ve temel **aritmetik işlemleri programlama** pratiği yapmaktır.
 
-## 🚀 Özellikler
+## Özellikler
 
 - Toplama, çıkarma, çarpma ve bölme işlemleri
 - Buton tıklama olaylarıyla veri girişi
@@ -23,7 +23,7 @@ Amaç, **Windows Forms ortamında kullanıcı arayüzü geliştirme**, **buton e
 - **.NET Framework**
 - **Windows Forms**
 
-## 📚 Kod Açıklamaları
+##  Kod Açıklamaları
 
 - `rakamButton_Click` metotları: Buton tıklamalarında ekrana rakam yazdırmayı sağlar.
 - `artiButton_Click`, `eksiButton_Click`, `carpiButton_Click`, `bolmeButton_Click`: İşlem türünü belirler ve girilen ilk sayıyı kaydeder.
